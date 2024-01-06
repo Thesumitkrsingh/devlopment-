@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-color: #3B3838;
+    border:solid 5px;
+}
+.container1{
+    
+    background-color: #3B3838;
+    padding:280px;
+}
+img{
+    border-radius: 50%;
+    width: 350px;
+}
+#sam ,#former{
+    text-align: right;
+    padding-right: 20%;
+   
+
+}
